@@ -1,6 +1,6 @@
 # Employee Management System
 
--------------------------------------------------------  ***Required***  --------------------------------------------------------------------
+-------------------------------------------------------------  ***Required***  --------------------------------------------------------------------
 
 Copy and replace the config file with the file that is already present in Tomcat's directory -// for tomcat's JDBC realm and Tomcat authentication
 

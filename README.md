@@ -1,6 +1,8 @@
 # Employee Management System
 
+***//Required
 Copy and replace the config file with the file that is already present in Tomcat's directory -// for tomcat's JDBC realm and Tomcat authentication
+//***
 
 Then copy and paste the webapp files in the Tomcat's WebApp folder , start the Tomcat server, Open any browser and search for localhost:8080/[webapp_name].
 
